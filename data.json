@@ -1,0 +1,18 @@
+[
+    {
+      "id": "01",
+      "image": "assets/srour.png",
+      "title": "Agency Website",
+      "description": "I offer you an agency website that reflects your business identity in the best way.",
+      "link": "#"
+    },
+
+    {
+      "id": "02",
+      "image": "assets/portfolio.png",
+      "title": "Portfolio",
+      "description": "I will design a unique and attractive portfolio that professionally showcases your skills and work.",
+      "link": "https://hyb-portfolio.netlify.app/"
+    }
+  ]
+  
